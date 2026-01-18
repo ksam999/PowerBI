@@ -149,7 +149,7 @@ The **Amazon Sales Analysis Dashboard** provides a comprehensive view of key sal
 
 
 ## 🙌 Author
-**Pankaj Kumar Yadav**  
-📧 pankajkumar.666y@gmail.com  
+**Shobhit Kumar Soni**  
+📧 shobhitkumsoni@gmail.com  
 📊 Passionate about Data Analytics | Power BI | Machine Learning  
 
