@@ -134,6 +134,6 @@ This page is ideal for **deeper analysis**, audits, and QA checks.
 ---
 
 # 📬 Contact
-**Pankaj Kumar Yadav**
-pankajkumar.666y@gmail.com
+**Shobhit Kumar Soni**
+shobhitkumsoni@gmail.com
 
