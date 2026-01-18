@@ -99,7 +99,7 @@ Each of these metrics also shows a **year-over-year comparison**, highlighting a
 
 
 ## 🙌 Author
-**Pankaj Kumar Yadav**  
-📧 pankajkumar.666y@gmail.com  
+**Shobhit Kumar Soni**  
+📧 shobhitkumsoni@gmail.com  
 📊 Passionate about Data Analytics | Power BI | Machine Learning  
 
