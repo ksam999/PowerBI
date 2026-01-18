@@ -121,9 +121,10 @@ The dashboard includes:
 ---
 
 ## 👤 Author  
-**Pankaj Kumar Yadav**  
+**Shobhit kumar Soni**  
+📧 shobhitkumsoni@gmail.com  
 Data Analyst | Power BI Developer | ML Enthusiast  
-📧 pankajkumar.666y@gmail.com  
+
 
 ---
 
