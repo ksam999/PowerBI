@@ -104,5 +104,6 @@ regimes can significantly improve trading performance.
 ---
 
 ## 👤 Author
-**Pankaj Kumae Yadav**  
-Aspiring Data Scientist | Data Analyst  
+**Shobhit kumar Soni**  
+Aspiring Data Analyst  
+shobhitkumsoni@gmail.com
